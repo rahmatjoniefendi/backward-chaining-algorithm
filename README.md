@@ -1,4 +1,4 @@
-# Opinioted and Usecase Based of Backward Chaining Algorithm
+# Opinionated and Usecase Based of Backward Chaining Algorithm
 
 ## Description
   
